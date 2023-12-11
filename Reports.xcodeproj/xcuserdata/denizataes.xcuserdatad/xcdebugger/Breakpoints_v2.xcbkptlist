@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CEBD6BBF-2B5A-4EDA-91BA-89CE0804C25B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2116631-27C4-4BFA-852E-37250C93D261"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4298F460-A1C6-499C-A5BE-D999CA6AC933"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C430386-9C49-43E6-A5DF-6949DE018E0A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "2C430386-9C49-43E6-A5DF-6949DE018E0A - 750b5a5e1174fb75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;Reports.StatisticModel&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.ContentView.makeGetRequest2() -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "2C430386-9C49-43E6-A5DF-6949DE018E0A - 750b5a5e1174818c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;Reports.StatisticModel&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.ContentView.makeGetRequest2() -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "2C430386-9C49-43E6-A5DF-6949DE018E0A - 750b5a5e1174818c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;Reports.StatisticModel&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.ContentView.makeGetRequest2() -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94B01376-3033-473C-8056-634935D12261"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "94B01376-3033-473C-8056-634935D12261 - 750b5a5e1174fb33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;Reports.StatisticModel&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.ContentView.makeGetRequest2() -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "94B01376-3033-473C-8056-634935D12261 - 750b5a5e1174804a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;Reports.StatisticModel&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.ContentView.makeGetRequest2() -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "94B01376-3033-473C-8056-634935D12261 - 750b5a5e1174804a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Array&lt;Reports.StatisticModel&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.ContentView.makeGetRequest2() -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8105AB93-EC28-4E2E-A4C8-42C5D47F2C44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Service/ReportsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "makeGetRequest(endpoint:parameters:responseType:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8105AB93-EC28-4E2E-A4C8-42C5D47F2C44 - 409c1369c55e36fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in Reports.ReportsService.makeGetRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;, responseType: &#x3c4;_0_0.Type, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Service/ReportsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "8105AB93-EC28-4E2E-A4C8-42C5D47F2C44 - 409c1369c55e36fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in Reports.ReportsService.makeGetRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Any&gt;, responseType: &#x3c4;_0_0.Type, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Service/ReportsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "8105AB93-EC28-4E2E-A4C8-42C5D47F2C44 - 74d65470b75fa85d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in Reports.ReportsService.makeGetRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, responseType: &#x3c4;_0_0.Type, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Service/ReportsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "8105AB93-EC28-4E2E-A4C8-42C5D47F2C44 - 74d65470b75fa85d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in Reports.ReportsService.makeGetRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, responseType: &#x3c4;_0_0.Type, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Service/ReportsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BBF9667-E181-4D29-8357-7BE16255A899"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Service/ReportsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "makeGetRequest(endpoint:parameters:responseType:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C8F5404-1636-4B0F-A650-7EAB3422F3A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Core/Finance/ViewModels/FinanceViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "getCoverageFacility(startDate:endDate:facilityID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57BDEAF2-58A8-4B9D-A404-EE033239EA5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Service/ReportsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "makeGetRequest(endpoint:parameters:responseType:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC7D469F-0E5F-498C-9352-2C0CDB15B740"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Core/Sickness/ViewModels/SicknessViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getSicknesses()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC7D469F-0E5F-498C-9352-2C0CDB15B740 - 82e75de72cd25190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Reports.ResultModel&gt;, Swift.Error&gt;) -&gt; () in Reports.SicknessViewModel.getSicknesses() -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Core/Sickness/ViewModels/SicknessViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "DC7D469F-0E5F-498C-9352-2C0CDB15B740 - 82e75de72cd25190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Reports.ResultModel&gt;, Swift.Error&gt;) -&gt; () in Reports.SicknessViewModel.getSicknesses() -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Core/Sickness/ViewModels/SicknessViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "DC7D469F-0E5F-498C-9352-2C0CDB15B740 - 82e75de72cd25190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Reports.ResultModel&gt;, Swift.Error&gt;) -&gt; () in Reports.SicknessViewModel.getSicknesses() -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Core/Sickness/ViewModels/SicknessViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "928">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3886006-AC82-493C-9737-E325B7E301E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Utils/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ping(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F3886006-AC82-493C-9737-E325B7E301E0 - 14ece701a2c726dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.Network.ping(url: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Utils/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "F3886006-AC82-493C-9737-E325B7E301E0 - 14ece701a2c726dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.Network.ping(url: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Utils/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47B7A243-82C8-4349-BAFB-C7D65A6A02E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Utils/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ping(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47B7A243-82C8-4349-BAFB-C7D65A6A02E7 - 14ece701a2c7271f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.Network.ping(url: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Utils/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "47B7A243-82C8-4349-BAFB-C7D65A6A02E7 - 14ece701a2c7271f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in Reports.Network.ping(url: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Reports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/denizataes/Desktop/XCodeProjects/Reports/Reports/Utils/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DFB915C-CB4E-46B6-BDCA-4D495842C514"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Core/Clinical/ViewModels/ClinicalViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "getEncounterDuration(startDate:endDate:doctorID:unitID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EB0C898-526F-4609-8E83-549AA7707502"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Core/Clinical/ViewModels/ClinicalViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "getSicknesses(startDate:endDate:sicknessID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A02E69C-3C5A-4C89-B8BD-E1447DEDFE36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Core/Clinical/ViewModels/ClinicalViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "getOperations(startDate:endDate:doctorID:unitID:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D95C972E-FAF2-4059-9AE3-0F725BA0646C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Core/Clinical/ViewModels/ClinicalViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "getReferral(startDate:endDate:doctorID:unitID:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B47DD31-A15C-4EE1-8E2D-E6D27927F36F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reports/Core/Appointment/Views/AppointmentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "historyView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
